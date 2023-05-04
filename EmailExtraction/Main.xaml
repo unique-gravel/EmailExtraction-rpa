@@ -82,7 +82,7 @@
         <OutArgument x:TypeArguments="x:String">[InputData]</OutArgument>
       </Assign.To>
       <Assign.Value>
-        <InArgument x:TypeArguments="x:String">Please use the following address contact ananya.agrawal@localcompnay.com to contact, its the company email.</InArgument>
+        <InArgument x:TypeArguments="x:String">Please use the following address contact ananya.agrawal@localcompany.com to contact, its the company email.</InArgument>
       </Assign.Value>
     </Assign>
     <Assign DisplayName="Assign - Index of @" sap:VirtualizedContainerService.HintSize="587.2,81.6" sap2010:WorkflowViewState.IdRef="Assign_2">
